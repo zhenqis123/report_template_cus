@@ -5,3 +5,6 @@
 *.synctex.gz
 *.thm
 *.toc
+*.fls
+*.fdb_latexmk
+.history
